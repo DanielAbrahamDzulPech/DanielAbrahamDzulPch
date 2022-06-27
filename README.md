@@ -1,4 +1,4 @@
-## Hey, Hola Soy Daniel Abraham Dzul Pech Developer Junior Front-End Full Stack
+## Hey, Hola Soy Daniel Abraham Dzul Pech Developer Junior Front-End
  <div>
   <a href="https://github.com/DanielAbrahamDzulPech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielAbrahamDzulPech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
